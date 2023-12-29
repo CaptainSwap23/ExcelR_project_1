@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-28T21:09:32 IST" name="Default suite" finished-at="2023-12-28T21:10:13 IST" duration-ms="40972">
+    <groups>
+    </groups>
+    <test started-at="2023-12-28T21:09:32 IST" name="Default test" finished-at="2023-12-28T21:10:13 IST" duration-ms="40972">
+      <class name="Project1.TestCase16">
+        <test-method is-config="true" signature="Beforetest()[pri:0, instance:Project1.TestCase16@4c583ecf]" started-at="2023-12-28T21:09:32 IST" name="Beforetest" finished-at="2023-12-28T21:09:41 IST" duration-ms="8497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method signature="LoginBeforeCheckout()[pri:16, instance:Project1.TestCase16@4c583ecf]" started-at="2023-12-28T21:09:41 IST" name="LoginBeforeCheckout" finished-at="2023-12-28T21:10:13 IST" duration-ms="31936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginBeforeCheckout -->
+        <test-method is-config="true" signature="Aftertest()[pri:0, instance:Project1.TestCase16@4c583ecf]" started-at="2023-12-28T21:10:13 IST" name="Aftertest" finished-at="2023-12-28T21:10:13 IST" duration-ms="466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest -->
+      </class> <!-- Project1.TestCase16 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
